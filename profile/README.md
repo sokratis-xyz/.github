@@ -1,4 +1,4 @@
-# Sokratis : Rethinking Search for the AI Era
+# Lets Rethink Search for the AI Era
 
 Search is broken. For decades, we've been forced to think in keywords instead of concepts. We've learned to contort our thoughts into search-engine friendly phrases, losing nuance and context along the way.
 
