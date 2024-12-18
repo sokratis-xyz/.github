@@ -1,12 +1,46 @@
-## Hi there 👋
+# Sokratis : Rethinking Search for the AI Era
 
-<!--
+Search is broken. For decades, we've been forced to think in keywords instead of concepts. We've learned to contort our thoughts into search-engine friendly phrases, losing nuance and context along the way.
 
-**Here are some ideas to get you started:**
+## Our Mission
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+At Sokratis, we're removing this artificial abstraction layer between human thought and information discovery. We believe you should be able to:
+
+- **Ask Real Questions**: Express your thoughts naturally, just as you would to a knowledgeable friend
+- **Get Contextual Understanding**: Receive results that truly understand the concepts behind your question
+- **Trust Your Results**: Make informed decisions with our reputation-based reliability scoring
+
+## How We're Different
+
+Unlike traditional search engines that match keywords, Sokratis:
+
+- 🧠 **Understands Context**: Our AI comprehends the deeper meaning behind your questions
+- 📚 **Reads for You**: Analyzes webpages to find truly relevant information, not just keyword matches
+- 🎯 **Points to Sources**: Provides direct references to reliable information, no AI hallucinations
+- 💡 **Suggests Related Concepts**: Helps you explore connected ideas and deepen your understanding
+
+## Our Products
+
+### Sokratis Search
+Our flagship search platform that helps you find answers through understanding. Built with modern AI technology while maintaining transparency and source reliability.
+
+### Sokratis API (Coming soon) 
+Enterprise-grade API for integrating semantic search capabilities into your applications. Documentation and examples available.
+
+## Join Our Mission
+
+We're always looking for passionate individuals who believe in making knowledge more accessible. Whether you're interested in:
+
+- 🛠️ Contributing to our open-source projects
+- 💡 Sharing ideas for improving search
+- 🤝 Building partnerships
+- 🚀 Joining our team
+
+Get in touch at [support@sokratis.ai](mailto:support@sokratis.xyz)
+
+## Stay Connected
+
+- [Website](https://www.sokratis.xyz)
+
+
+** _Knowledge should be accessible through understanding, not keywords._
