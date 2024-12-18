@@ -36,7 +36,7 @@ We're always looking for passionate individuals who believe in making knowledge 
 - 🤝 Building partnerships
 - 🚀 Joining our team
 
-Get in touch at [support@sokratis.ai](mailto:support@sokratis.xyz)
+Get in touch at [support@sokratis.xyz](mailto:support@sokratis.xyz)
 
 ## Stay Connected
 
