@@ -25,7 +25,7 @@ Unlike traditional search engines that match keywords, Sokratis:
 Our flagship search platform that helps you find answers through understanding. Built with modern AI technology while maintaining transparency and source reliability.
 
 ### Sokratis API (Coming soon) 
-Enterprise-grade API for integrating semantic search capabilities into your applications. Documentation and examples available.
+Enterprise-grade API for integrating web content understanding capabilities into your applications. Documentation and examples available.
 
 ### Liath (Coming soon)
 Accelerate your AI development, build something like perplexity in less than 100 lines.
