@@ -28,10 +28,10 @@ Our flagship search platform that helps you find answers through understanding. 
 Enterprise-grade API for integrating semantic search capabilities into your applications. Documentation and examples available.
 
 ### Liath (Coming soon)
-Accelerate your AI development
+Accelerate your AI development, build something like perplexity in less than 100 lines.
 
 ### Ukkin (Coming soon)
-AI-first mobile browser 
+AI-first mobile browser, integrating the same goals here but on your mobile.
 
 ## Join Our Mission
 
