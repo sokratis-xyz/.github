@@ -43,4 +43,4 @@ Get in touch at [support@sokratis.xyz](mailto:support@sokratis.xyz)
 - [Website](https://www.sokratis.xyz)
 
 
-** _Knowledge should be accessible through understanding, not keywords._
+# _Knowledge should be accessible through understanding, not keywords._
