@@ -27,6 +27,12 @@ Our flagship search platform that helps you find answers through understanding. 
 ### Sokratis API (Coming soon) 
 Enterprise-grade API for integrating semantic search capabilities into your applications. Documentation and examples available.
 
+### Liath (Coming soon)
+Accelerate your AI development
+
+### Ukkin (Coming soon)
+AI-first mobile browser 
+
 ## Join Our Mission
 
 We're always looking for passionate individuals who believe in making knowledge more accessible. Whether you're interested in:
