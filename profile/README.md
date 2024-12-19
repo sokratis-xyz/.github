@@ -21,19 +21,19 @@ Unlike traditional search engines that match keywords, Sokratis:
 
 ## Our Products
 
-### Sokratis Search
+### [Sokratis Search](https://www.sokratis.xyz)
 Our flagship search platform that helps you find answers through understanding. Built with modern AI technology while maintaining transparency and source reliability.
 
 ### Sokratis API (Coming soon) 
 Enterprise-grade API for integrating web content understanding capabilities into your applications.
 
-### Memista 
+### [Memista](https://github.com/sokratis-xyz/memista)
 Open source high performance rust vector search service
 
-### Polymath
+### [Polymath](https://github.com/sokratis-xyz/polymath)
 Open source high performance rust web search service (like perplexity)
 
-### Embedcache 
+### [Embedcache](https://github.com/sokratis-xyz/embedcache)
 Open source fast rust web page embedding service with caching
 
 ## Join Our Mission
@@ -46,10 +46,5 @@ We're always looking for passionate individuals who believe in making knowledge 
 - 🚀 Joining our team
 
 Get in touch at [support@sokratis.xyz](mailto:support@sokratis.xyz)
-
-## Stay Connected
-
-- [Website](https://www.sokratis.xyz)
-
 
 # _Knowledge should be accessible through understanding, not keywords._
