@@ -25,13 +25,16 @@ Unlike traditional search engines that match keywords, Sokratis:
 Our flagship search platform that helps you find answers through understanding. Built with modern AI technology while maintaining transparency and source reliability.
 
 ### Sokratis API (Coming soon) 
-Enterprise-grade API for integrating web content understanding capabilities into your applications. Documentation and examples available.
+Enterprise-grade API for integrating web content understanding capabilities into your applications.
 
-### Liath (Coming soon)
-Accelerate your AI development, build something like perplexity in less than 100 lines.
+### Memista 
+Open source high performance rust vector search service
 
-### Ukkin (Coming soon)
-AI-first mobile browser, integrating the same goals here but on your mobile.
+### Polymath
+Open source high performance rust web search service (like perplexity)
+
+### Embedcache 
+Open source fast rust web page embedding service with caching
 
 ## Join Our Mission
 
