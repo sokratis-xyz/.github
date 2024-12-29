@@ -21,10 +21,10 @@ Unlike traditional search engines that match keywords, Sokratis:
 
 ## Our Products
 
-### [Sokratis Search](https://www.sokratis.xyz)
+### [Unlob](https://www.unlob.com)
 Our flagship search platform that helps you find answers through understanding. Built with modern AI technology while maintaining transparency and source reliability.
 
-### Sokratis API (Coming soon) 
+### Unlob API (Coming soon) 
 Enterprise-grade API for integrating web content understanding capabilities into your applications.
 
 ### [Memista](https://github.com/sokratis-xyz/memista)
